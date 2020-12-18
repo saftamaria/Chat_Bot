@@ -1,0 +1,34 @@
+
+:
+java:S2119™"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+:
+java:S2119È"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+C
+java:S1604&"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èù¨®
+Ù
+java:S1598"ÂThis file "ChatBotMain.java" should be located in "ChatBot" directory, not in "C:\Users\ANTO\Desktop\Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software-master\Chatboat -Using Swing-AI".(èù¨®
+O
+java:S1128"4Remove this unused import 'javax.swing.JEditorPane'.(Ò¬Ôšÿÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.awt.Adjustable'.(ö¶»Áúÿÿÿÿ
+:
+java:S2119Ø"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+>
+java:S1068"(Remove this unused "main" private field.(ŸÈÚ¸
+H
+java:S1068 "-Remove this unused "scrollBar" private field.(‘£­úüÿÿÿÿ
+]	java:S125]"<This block of commented-out lines of code should be removed.(Ú“ßÛşÿÿÿÿ8‘ğ×“ç.
+h
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¬ã·¬
+p	java:S116"VRename this field "textField_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ş‡şÿÿÿÿ
+d
+java:S32527"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+Q	java:S125v"<This block of commented-out lines of code should be removed.(ù²ıİ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(™ØíÒúÿÿÿÿ
+:
+java:S2119·"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+>
+java:S1604P"(Make this anonymous inner class a lambda(øÌıù
+9
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
